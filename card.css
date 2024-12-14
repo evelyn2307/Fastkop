@@ -1,0 +1,30 @@
+/*dekorasi / format card dalam website*/
+
+/*set format kad log masuk & daftar pengguna*/
+.kadbesar {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 100%;
+  border-radius: 5px;
+  background-color: white;
+}
+
+/*set format hover kad log masuk & daftar pengguna*/
+.kadbesar:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/*set format kad paparan maklumat pelanggan log masuk*/
+.kadpelanggan {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 100%;
+  background-color: white;
+  padding: 5px;
+  font-size: 15px;
+}
+
+/* lebar skrin besar, size jadi besar */
+@media screen and (min-width: 719px) {
+  .kadpelanggan {font-size: 15px}
+}

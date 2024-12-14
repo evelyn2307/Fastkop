@@ -1,4 +1,10 @@
 <?php //paparan utama
+/*rujukan
+https://programmablesearchengine.google.com/cse/create/new
+https://app.smartsupp.com/app/sign/in?redirect=upur7&err=login_required
+https://www.unitag.io/qrcode/widget
+https://www.booked.net/widgets/clock*/
+
 
 session_start();//sesi berjalan
 $screenwidth = $_SESSION['width'];
