@@ -1,0 +1,71 @@
+/*dekorasi / format elemen dalam website*/
+
+/*letak warna background dan jenis font yang digunakan*/
+body {
+  background-color: #FADBD8;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/*set format tajuk*/
+.tajuk { 
+  font-family: Arial, Helvetica, sans-serif;
+  color: #191970;
+  text-align: center;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+/*set format paparan maklumat pelanggan log masuk*/
+.tekspelanggan {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #191970;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+}
+
+/*set format nama kolum*/
+.teks {
+	color: black;
+	font-size: 13px;
+}
+
+/*set format data*/
+.teksdata {
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+	font-size: 12px;
+}
+
+/*set format butang*/
+.buttonbaru {
+  border-radius: 15px ;
+  background-color: #191970;
+  border: none;
+  font-family: arial;
+  color: white;
+  padding: 5px 7px;/*set ruang pada sekeliling elemen dalam border*/
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;/*butang dalam bentuk kotak*/
+  font-size: 12px;
+  margin: 4px 2px;/*set ruang pada sekeliling border*/
+  cursor: pointer;/*mouse cursor dalam rupa bentuk pointer*/
+}
+
+/*set format gambar*/
+.gambar {
+	height: 75px;
+	width: 50px;
+}
+
+/* lebar skrin besar, size jadi besar */
+@media screen and (min-width: 719px) {
+  .tajuk {font-size: 18px}
+  .tekspelanggan {font-size: 16px}
+  .teks {font-size: 14px}
+  .teksdata {font-size: 14px}
+  .buttonbaru {font-size: 14px}
+  .gambar {height: 100px; width: 75px;}
+}

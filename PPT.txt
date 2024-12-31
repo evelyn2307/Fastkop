@@ -1,0 +1,55 @@
+Selamat sejahtera kepada semua cikgu, kumpulan kami dari sekolah SMK DATO BENTARA LUAR telah membangun satu laman web koperasi yg bernama Fastkop.
+Fastkop ini adalah berfungsi utk membolehkan pengguna membeli barangan secara atas talian.
+
+cikgu cikgu, dekat in-call messages sana tu kumpulan kami ada send satu link url. link ini adalah poster tentang fastkop yg kami design. cikgu cikgu blh cuba tengok.
+
+saya akan memeperkenalkan ahli kumpulan kami yg terdiri drpd kawan saya Teo Khee En, Hafiszuddin bin mohd sanip dan saya Evelyn Ang.
+
+selamat pagi cikgu, nama saya Evelyn Ang. saya akan menerangkan proses kami semasa fasa laksana penyelesaian.
+
+
+dalam proses pengekodan, perisian xampp control panel dan firefox digunakan untuk membina pangkalan data.
+
+gambar ini telah menunjukkan sebanyak 5 jadual yg kami bina.
+
+perisian yg digunakan utk menulis kod atur cara adalah adobe dreamweaver cs3.
+
+kami menggunakan perisian ini kerana ia menawarkan pilihan paparan reka bentuk dan kod ketika pengekodan.
+
+bahasa pengaturcaraan yg terlibat dlm laman web ini adalah html, php, css dan juga javacript.
+
+kami juga ada buat pakej aplikasi android(apk) bagi fastkop ini dgn menggunakan laman web github dan thunkable.
+
+
+
+REFLEKSI
+
+fastkop ini adalah laman web yg direka khas utk meningktkan akses koperasi kpd pelanggan
+
+dgn akses tersebut, urusan jual beli dpt ditingkatkan
+
+laman web ini terbukti berkesan dlm urusan jual beli
+
+hal ini dpt diperhati melalui respons pengguna yg sgt berpuas hati dgn fastkop ini.
+
+
+
+PENAMBAHBAIKAN
+
+terdapat juga beberapa penambahbaikan yg perlu kami lakukan utk menjadikan fastkop ini lebih efisien pada masa hadapan.
+
+antara penambahbaikan adalah seperti yg berikut.
+
+Kebolehan untuk menjana resit rasmi.
+
+Keupayaan untuk memasukkan promosi, diskaun atau kombo jualan dalam iklan dan pengiraan.
+
+Keupayaan untuk memadam sejumlah pengguna.
+
+Kebolehan memberi notifikasi kepada pelanggan.
+
+Menggunakan sistem keselamatan yang lebih baik ketika tambah nilai kredit dan ketika membuat belian.
+
+Kebolehan menambah atau mengurangkan bilangan pengurus atau pekerja.
+
+sekarang saya demo bagaimana pengguna menggunakan fastkop ini utk membeli barangan.
